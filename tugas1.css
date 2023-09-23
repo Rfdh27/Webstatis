@@ -1,0 +1,13 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.intro{
+    background-color: darkolivegreen;
+    margin: 0px;
+    padding: 50px;
+    color: beige;
+}
